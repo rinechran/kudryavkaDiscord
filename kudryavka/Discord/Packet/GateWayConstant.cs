@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace kudryavka.Discord.Dispatch
+namespace kudryavka.Discord.Packet
 {
     /**
      * Opcodes and Status Codes

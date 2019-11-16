@@ -22,6 +22,7 @@ namespace kudryavka.Discord
 
         public Config()
         {
+            
 
         }
 

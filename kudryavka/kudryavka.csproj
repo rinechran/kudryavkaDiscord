@@ -51,8 +51,9 @@
   <ItemGroup>
     <Compile Include="Discord\Config.cs" />
     <Compile Include="Discord\Discord.cs" />
-    <Compile Include="Discord\Dispatch\DisPatchImple.cs" />
-    <Compile Include="Discord\Dispatch\GateWayConstant.cs" />
+    <Compile Include="Discord\DisPatch.cs" />
+    <Compile Include="Discord\Packet\GateWayConstant.cs" />
+    <Compile Include="Discord\Packet\EntitiesPacket.cs" />
     <Compile Include="Discord\Network\WScoket.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
